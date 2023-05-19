@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+           
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+
+      
+
+.pt-5{
+    color: white;
+	font-size: 50px;
+	-webkit-text-stroke: 2px black;
+}
+body {
+    background-color :#E3F4F4;
+ }
+
+  hr{
+            border-style: none;
+            border-top-style:dashed;
+            border-color:black;
+            border-width: 5px;
+            width :15%;
+            margin: auto;
+        }
